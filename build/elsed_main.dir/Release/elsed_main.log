@@ -1,0 +1,14 @@
+﻿  Building Custom Rule D:/project/line-work/ELSED/CMakeLists.txt
+  main.cpp
+D:\project\line-work\ELSED\src\EdgeDrawer.h(23,13): error C2065: “M_PI”: 未声明的标识符
+  (编译源文件“../src/main.cpp”)
+  
+D:\project\line-work\ELSED\src\EdgeDrawer.h(114,28): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“../src/main.cpp”)
+  
+D:\project\line-work\ELSED\src\EdgeDrawer.h(120,34): error C2065: “M_PI”: 未声明的标识符
+  (编译源文件“../src/main.cpp”)
+  
+D:\project\line-work\ELSED\src\ELSED.h(38,34): error C2065: “M_PI”: 未声明的标识符
+  (编译源文件“../src/main.cpp”)
+  

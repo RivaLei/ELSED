@@ -1,0 +1,90 @@
+﻿  Building Custom Rule D:/project/line-work/ELSED/CMakeLists.txt
+  PYAPI.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(167,5): error C2039: "_invalid_parameter": 不是 "`global namespace'" 的成员
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(167,5): error C3861: “_invalid_parameter”: 找不到标识符
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(177,5): error C2039: "_invalid_parameter": 不是 "`global namespace'" 的成员
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(177,5): error C3861: “_invalid_parameter”: 找不到标识符
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(1361,9): error C2039: "_invalid_parameter": 不是 "`global namespace'" 的成员
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xmemory(1361,9): error C3861: “_invalid_parameter”: 找不到标识符
+  (编译源文件“../src/PYAPI.cpp”)
+  
+D:\project\line-work\ELSED\pybind11\include\pybind11\detail\type_caster_base.h(482,21): error C2027: 使用了未定义类型“_frame”
+  (编译源文件“../src/PYAPI.cpp”)
+  C:\ProgramData\anaconda3\include\pytypedefs.h(22,16):
+  参见“_frame”的声明
+  
+D:\project\line-work\ELSED\pybind11\include\pybind11\pybind11.h(2348,29): error C2039: "co_varnames": 不是 "PyCodeObject" 的成员
+  (编译源文件“../src/PYAPI.cpp”)
+  C:\ProgramData\anaconda3\include\cpython\code.h(103,8):
+  参见“PyCodeObject”的声明
+  
+D:\project\line-work\ELSED\pybind11\include\pybind11\pybind11.h(2347,41): error C2660: “pybind11::detail::dict_getitem”: 函数不接受 1 个参数
+  (编译源文件“../src/PYAPI.cpp”)
+  D:\project\line-work\ELSED\pybind11\include\pybind11\pytypes.h(562,19):
+  参见“pybind11::detail::dict_getitem”的声明
+  D:\project\line-work\ELSED\pybind11\include\pybind11\pybind11.h(2347,41):
+  尝试匹配参数列表“(PyObject *)”时
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\atomic(105,9): error C2039: "_invalid_parameter": 不是 "`global namespace'" 的成员
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\atomic(105,9): error C3861: “_invalid_parameter”: 找不到标识符
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\atomic(360,9): error C2039: "_invalid_parameter": 不是 "`global namespace'" 的成员
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\atomic(360,9): error C3861: “_invalid_parameter”: 找不到标识符
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\atomic(376,9): error C2039: "_invalid_parameter": 不是 "`global namespace'" 的成员
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\atomic(376,9): error C3861: “_invalid_parameter”: 找不到标识符
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xlocale(264,13): error C2039: "_invalid_parameter": 不是 "`global namespace'" 的成员
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xlocale(264,13): error C3861: “_invalid_parameter”: 找不到标识符
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xlocale(279,9): error C2039: "_invalid_parameter": 不是 "`global namespace'" 的成员
+  (编译源文件“../src/PYAPI.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xlocale(279,9): error C3861: “_invalid_parameter”: 找不到标识符
+  (编译源文件“../src/PYAPI.cpp”)
+  
+D:\project\line-work\ELSED\src\EdgeDrawer.h(23,13): error C2065: “M_PI”: 未声明的标识符
+  (编译源文件“../src/PYAPI.cpp”)
+  
+D:\project\line-work\ELSED\src\EdgeDrawer.h(114,28): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“../src/PYAPI.cpp”)
+  
+D:\project\line-work\ELSED\src\EdgeDrawer.h(120,34): error C2065: “M_PI”: 未声明的标识符
+  (编译源文件“../src/PYAPI.cpp”)
+  
+D:\project\line-work\ELSED\src\ELSED.h(38,34): error C2065: “M_PI”: 未声明的标识符
+  (编译源文件“../src/PYAPI.cpp”)
+  
+D:\project\line-work\ELSED\src\PYAPI.cpp(17,27): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+D:\project\line-work\ELSED\src\PYAPI.cpp(38,42): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+D:\project\line-work\ELSED\src\PYAPI.cpp(38,42): warning C4244:         with
+D:\project\line-work\ELSED\src\PYAPI.cpp(38,42): warning C4244:         [
+D:\project\line-work\ELSED\src\PYAPI.cpp(38,42): warning C4244:             _Ty=pybind11::ssize_t
+D:\project\line-work\ELSED\src\PYAPI.cpp(38,42): warning C4244:         ]
+D:\project\line-work\ELSED\src\PYAPI.cpp(38,27): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+D:\project\line-work\ELSED\src\PYAPI.cpp(38,27): warning C4244:         with
+D:\project\line-work\ELSED\src\PYAPI.cpp(38,27): warning C4244:         [
+D:\project\line-work\ELSED\src\PYAPI.cpp(38,27): warning C4244:             _Ty=pybind11::ssize_t
+D:\project\line-work\ELSED\src\PYAPI.cpp(38,27): warning C4244:         ]

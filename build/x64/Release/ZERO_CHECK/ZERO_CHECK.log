@@ -1,0 +1,48 @@
+﻿  1>Checking Build System
+  CMake is re-running because D:/project/line-work/ELSED/build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'D:/project/line-work/ELSED/CMakeLists.txt'
+    is newer than 'D:/project/line-work/ELSED/build/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+    Compatibility with CMake < 3.5 will be removed from a future version of
+    CMake.
+  
+    Update the VERSION argument <min> value or use a ...<max> suffix to tell
+    CMake that the project does not need compatibility with older versions.
+  
+  
+  -- Selecting Windows SDK version 10.0.22621.0 to target Windows 10.0.19045.
+  -- OpenCV ARCH: x64
+  -- OpenCV RUNTIME: vc17
+  -- OpenCV STATIC: OFF
+  -- Found OpenCV 4.8.0 in D:/project/third_party_common_install/opencv/vs2022/x64/vc17/lib
+  -- You might need to add D:\project\third_party_common_install\opencv\vs2022\x64\vc17\bin to your PATH to be able to run your applications.
+  -- OpenCV_FOUND: 1
+  -- OpenCV_INCLUDE_DIRS: D:/project/third_party_common_install/opencv/vs2022/include
+  -- OpenCV_LIBS: opencv_calib3dopencv_coreopencv_dnnopencv_features2dopencv_flannopencv_gapiopencv_highguiopencv_imgcodecsopencv_imgprocopencv_mlopencv_objdetectopencv_photoopencv_stitchingopencv_videoopencv_videoioopencv_worldopencv_arucoopencv_bgsegmopencv_bioinspiredopencv_ccalibopencv_datasetsopencv_dnn_objdetectopencv_dnn_superresopencv_dpmopencv_faceopencv_fuzzyopencv_hfsopencv_img_hashopencv_intensity_transformopencv_line_descriptoropencv_mccopencv_optflowopencv_phase_unwrappingopencv_plotopencv_qualityopencv_rapidopencv_regopencv_rgbdopencv_saliencyopencv_shapeopencv_stereoopencv_structured_lightopencv_superresopencv_surface_matchingopencv_textopencv_trackingopencv_videostabopencv_wechat_qrcodeopencv_xfeatures2dopencv_ximgprocopencv_xobjdetectopencv_xphoto
+  CMake Deprecation Warning at pybind11/CMakeLists.txt:8 (cmake_minimum_required):
+    Compatibility with CMake < 3.5 will be removed from a future version of
+    CMake.
+  
+    Update the VERSION argument <min> value or use a ...<max> suffix to tell
+    CMake that the project does not need compatibility with older versions.
+  
+  
+  -- pybind11 v2.8.1 
+  CMake Warning (dev) at D:/project/vcpkg/installed/x64-windows/share/pythoninterp/vcpkg-cmake-wrapper.cmake:10 (_find_package):
+    Policy CMP0148 is not set: The FindPythonInterp and FindPythonLibs modules
+    are removed.  Run "cmake --help-policy CMP0148" for policy details.  Use
+    the cmake_policy command to set the policy and suppress this warning.
+  
+  Call Stack (most recent call first):
+    D:/project/vcpkg/scripts/buildsystems/vcpkg.cmake:813 (include)
+    pybind11/tools/FindPythonLibsNew.cmake:98 (find_package)
+    D:/project/vcpkg/scripts/buildsystems/vcpkg.cmake:859 (_find_package)
+    pybind11/tools/pybind11Tools.cmake:50 (find_package)
+    pybind11/tools/pybind11Common.cmake:206 (include)
+    pybind11/CMakeLists.txt:198 (include)
+  This warning is for project developers.  Use -Wno-dev to suppress it.
+  
+  -- Configuring done (0.3s)
+  -- Generating done (0.1s)
+  -- Build files have been written to: D:/project/line-work/ELSED/build
